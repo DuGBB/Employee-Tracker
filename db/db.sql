@@ -1,2 +1,2 @@
-CREATE DATABASE consortium
-USE consortium
+CREATE DATABASE IF NOT EXISTS consortium;
+USE consortium;

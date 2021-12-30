@@ -1,7 +1,7 @@
 INSERT INTO departments (name, description)
 VALUES
-    ('Operations Management', 'The Operations Management(OM) department handles the administration of business practices to create the highest level of efficiency possible within the company');
-    ('IT', 'The IT department manages the installation and maintenance of the computer systems with in the company.'),
+    ('Operations Management', 'The Operations Management(OM) department handles the administration of business practices to create the highest level of efficiency possible within the company'),
+    ('IT', 'The IT department manages the installation and maintenance of the computer systems with in the company.');
 
 
 INSERT INTO parts (title, salary, department_id)

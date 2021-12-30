@@ -1,0 +1,34 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "employee tracking at its finiest",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuGBB/Employee-Tracker.git"
+  },
+  "keywords": [
+    "employee",
+    "tracker",
+    "mysql2",
+    "inquirer",
+    "console.table"
+  ],
+  "author": "D. Biggers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DuGBB/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/DuGBB/Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
