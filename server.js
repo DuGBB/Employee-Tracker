@@ -214,6 +214,7 @@ Company.prototype.newDepartment = async function () {
 
       this.dbCall(sql, false);
       console.log("Added department");
+      this.departmentsView();
     });
 };
 
