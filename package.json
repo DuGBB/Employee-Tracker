@@ -29,6 +29,7 @@
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.0",
     "mysql": "^2.18.1",
-    "mysql2": "^2.3.3"
+    "mysql2": "^2.3.3",
+    "prompt-choices": "^4.0.6"
   }
 }
