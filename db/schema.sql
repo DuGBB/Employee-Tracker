@@ -12,7 +12,7 @@ CREATE TABLE parts (
     id INTEGER AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(60) NOT NULL,
     salary DECIMAL(8,2) NOT NULL,
-    department_id INTEGER,
+    department_id INTEGER NOT NULL,
     CONSTRAINT fk_department FOREIGN KEY (department_id) REFERENCES departments(id) ON DELETE SET NULL
 );
 

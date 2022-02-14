@@ -16,6 +16,7 @@ An application built to view and manage the departments, roles, and employees in
 - [GitHub Username](#github-username)
 - [Email Address](#email-address)
 - [Screenshot](#screenshot)
+- [Walk Through Video](#walk-through-video)
 
 # Installation
 
@@ -44,3 +45,7 @@ To reach out to me with additional questions/comments, contact me at DuGsEmail@y
 # Screenshot
 
 ![Employee-Tracker](./assets/images/employeeTracker.png?raw=true "Employee-Tracker")
+
+# Walk Through Video
+
+To view the video showcasing the required elements: https://watch.screencastify.com/v/mSIuawVjihc0Ctv1gUml

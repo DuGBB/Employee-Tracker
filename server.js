@@ -17,6 +17,10 @@ Company.prototype.dbCall = async function (sql, showTable) {
       if (showTable) {
         console.log("\n");
         console.table(rows);
+        console.log("\n\n");
+        for (let i = 0; i < rows.length; i++) {
+          //   console.log(rows[i]);
+        }
         this.initializeCompany();
       } else {
         let valArray = [];
