@@ -43,4 +43,4 @@ To reach out to me with additional questions/comments, contact me at DuGsEmail@y
 
 # Screenshot
 
-![Employee-Tracker](/Employee-Tracker/images/employeeTracker.png?raw=true "Employee-Tracker")
+![Employee-Tracker](./assets/images/employeeTracker.png?raw=true "Employee-Tracker")
